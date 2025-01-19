@@ -10,4 +10,4 @@ Minimalist Design: Focused design that highlights essential information clearly.
 Technologies Used:
 HTML: Used for the website structure.
 CSS: Used for styling and layout.
-How to View the Website:
+How to View the Website: https://srihari619.github.io/portfolio-simple-website/index.html
